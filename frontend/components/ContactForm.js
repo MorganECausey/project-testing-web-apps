@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import DisplayComponent from './DisplayComponent';
-
+//installed dependancies 12-6
 const formData = {
   firstName: "",
   lastName: "",
